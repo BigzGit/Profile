@@ -1,6 +1,7 @@
-Yo, I'm [Your Name]! 🖥️
+Yo, I'm Bigz! 🖥️
 
 A student nerd diving headfirst into the coding multiverse. I’m stoked to learn, tinker with open-source, and kick off my GitHub journey!
+
 🕹️ My Geek Vibes
 
     Learning: Digging into [languages, e.g., Python, C++].
